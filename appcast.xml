@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PeCa Viewer</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 16 Aug 2026 08:24:38 +0900</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://somtum1120.github.io/peca-viewer-updates/PeCa-Viewer-0.1.0-build-64.dmg" length="5563034" type="application/octet-stream" sparkle:edSignature="+JJGuu7m6Z+14cW8V9VogSZdutXnGs/XjMS4CCkJCPTh/K7WteNHVLk/rYG+bdWDKPH3xRQjsfSlBHK3MYh6BA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: AFfWoxc84HRZSg0rBkvGxrzyZPyvKkDQcWJjNuVlsQLBmR1ssAK6cfH8hHmgTMfCRTM4zovmnXXCjNnvrrggBw==
+length: 1044
+-->
