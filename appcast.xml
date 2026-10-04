@@ -5,14 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>PeCa Viewer</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 04 Oct 2026 03:23:03 +0900</pubDate>
-            <sparkle:version>119</sparkle:version>
+            <pubDate>Sun, 04 Oct 2026 16:34:28 +0900</pubDate>
+            <sparkle:version>120</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://somtum1120.github.io/peca-viewer-updates/PeCa-Viewer-0.1.0-build-119.dmg" length="7600860" type="application/octet-stream" sparkle:edSignature="M58vLxSc7XcRfzybzz0WMSTPL4qxWG1n0Pm/GYyo2vmuW59khJDjhpPSbXC6BRAAAI71VGFNAdixdNm0b376Ag=="></enclosure>
+            <enclosure url="https://somtum1120.github.io/peca-viewer-updates/PeCa-Viewer-0.1.0-build-120.dmg" length="7615848" type="application/octet-stream" sparkle:edSignature="0ziHdtlMjqc1x75JExb5MbyhGFhbwMNLNVMw83CJuUPdg48fhLkZ6fafB6ADUombwINMI8dOgX/vNnxv+0x+Aw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: D1U3s/lAIGJwAgJWkcnjXGkiAZRSVEsRxQ/y+TDG6LvkQNHxhViVYH9xPBlQ5IZc7fdDBO2E+cnu7UOayG8ZDw==
+edSignature: m1GaCoJXJtvAAWs/gWtRIXBkScJ8bRGYwTaCgYxyrLtQ9MUkNzsXEa4EEjrCMDuWntBtHdR3sO8Jn91IrweEBw==
 length: 1046
 -->
